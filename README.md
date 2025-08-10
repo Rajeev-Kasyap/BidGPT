@@ -8,13 +8,10 @@ What Can BidGPT Do?
 - "Is there an EMD?"
 - "What is the last date to apply?"
 
-2. Read and interpret uploaded tender PDFs or scraped data
+2. Respond in a conversational format (like ChatGPT)
 
-3. Respond in a conversational format (like ChatGPT)
+3. Allow users to search tenders by keyword, region, department, etc.
 
-4. Allow users to search tenders by keyword, region, department, etc.
-
-5. Summarize tender documents for quick understanding
 
 Tech Stack:
 - Backend: Python, Flask
